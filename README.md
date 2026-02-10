@@ -30,6 +30,7 @@ The company needed an automated dashboard for faster decision-making.
 - Revenue trend analysis
 
 ## 📷 Dashboard Preview
+![sales_insights_of_atliQ-Hardware(main)_page-0001](https://github.com/user-attachments/assets/1b9094a7-005f-4a18-851c-bfbcff6a8fee)
 
 
 ## 🎯 Outcome
